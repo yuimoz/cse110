@@ -1,12 +1,13 @@
-# Hello, world! Welcome to my page for CSE110. 
-## Hello, world! Welcome to my page
-### Hello, world! Welcome
+# My User Page
+## About the Student
+My name is Viann Perez Hernandez. I am a 3rd year Computer Science student at the **University of California, San Diego.** 
+*I am also currently seeking for an internship opportunity for Summer 2024.* 
 
-**Here's some bold text!** 
-**Here's some italic text!** 
-~~I am scared of failing~~ 
-**I will do _amazing_ in this class!** 
-***...Hopefully*** 
-Here's some <sub>subscript</sub>
+## Skills and Interests
+
+
+
+
+
 
 
