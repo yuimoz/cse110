@@ -35,6 +35,8 @@ _I am currently seeking an internship opportunity for Summer 2024._
 I have experience building computers. This is my gaming pc I built in July 2023. Here's the [pcpartpicker list](https://pcpartpicker.com/list/xDPQ28). 
 
 
+[Relative link](relativelink.md)
+
 
 
 
