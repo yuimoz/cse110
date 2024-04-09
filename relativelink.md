@@ -1,1 +1,1 @@
-# [MY USER PAGE](https://github.com/yuimoz/cse110/blob/main/index.md)
+[README](https://github.com/yuimoz/cse110/blob/main/README.md)
