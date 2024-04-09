@@ -1,1 +1,1 @@
-# [README](https://github.com/yuimoz/cse110/blob/main/README.md)
+# [read me!](https://github.com/yuimoz/cse110/blob/main/README.md)
