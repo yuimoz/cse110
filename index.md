@@ -10,7 +10,7 @@ I feel the most comfortable coding in ***Java***, since it is the language I hav
 _I am currently seeking an internship opportunity for Summer 2024._
 
 ## Inspirations (my interests!) 
-- Video Games
+- Video Games ([this](https://github.com/yuimoz/cse110/blob/main/index.md#fun-fact-about-me) is what I use!) 
 - Game Development/Design
 - Drawing (digital/traditional illustration)
 - Photography
