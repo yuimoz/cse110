@@ -7,7 +7,7 @@ System.out.println("Hello CSE110!");
 ## About the Student 
 My name is Viann Perez Hernandez. I am a 3rd year Computer Science student at the **University of California, San Diego.** 
 
-I feel the most comfortable coding in ***Java***, since it is the language I have the most experience on. I've also coded in ***Python***, ***C++***, and some ***Assembly***.
+I feel the most comfortable coding in ***Java***, since it is the language I have the most experience with. I've also coded in ***Python***, ***C++***, and some ***Assembly***.
 
 _I am currently seeking an internship opportunity for Summer 2024._
 
